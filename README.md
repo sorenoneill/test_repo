@@ -15,4 +15,5 @@ a repo for simple Rstudio testing
 
 6. Staged?
 
-7. Added
+7. Added one more line
+
