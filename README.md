@@ -21,6 +21,6 @@ a repo for simple Rstudio testing
 
 9. Having trouble syncing
 
-10. It ain's that easy
+10. It ain's that easy, I can tell you
 
 Add some stuff from CLI
