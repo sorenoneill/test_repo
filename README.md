@@ -20,3 +20,5 @@ a repo for simple Rstudio testing
 8. Guess what! Added another
 
 9. Having trouble syncing
+
+10. It ain's that easy
