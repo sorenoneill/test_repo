@@ -23,4 +23,4 @@ a repo for simple Rstudio testing
 
 10. It ain's that easy
 
-Add some stuff from CLI
+11. Add some stuff from CLI
