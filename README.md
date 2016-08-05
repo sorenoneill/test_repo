@@ -24,3 +24,4 @@ a repo for simple Rstudio testing
 10. It ain's that easy, I can tell you
 
 11. Add some stuff from CLI
+This line added by git user 2
